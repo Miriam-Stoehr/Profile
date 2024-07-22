@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p> I'm Miriam, a motivated professional transitioning into the tech industry. With a background in political science, economics, linguistics and cultural studies and work experience in accounting, treasury amanagement, and controlling, I am passionate about leveraging technology to enhance efficiency and collaboration in the workplace. My academic and professional experiences have fostered a strong analytical mindset and a keen interest in applying technology to solve complex problems. My academic and professional experiences have fostered a strong analytical mindset and a keen interest in applying technology to solve complex problems.</p>
 
-<h2>Background and Motivation</h2>
+<h2>🎓 Background and Motivation</h2>
 
 <p>
 My background in Modern East Asian Studies and political and social science has provided me with a deep understanding of global perspectives and societal dynamics. This foundation, combined with my professional experience, has shaped my commitment to using technology for meaningful improvements in both business processes and societal impact.
@@ -27,7 +27,7 @@ During my tenure as an Accountant and Junior Controller, I encountered inefficie
 Inspired by the positive impacts of these projects, I started deepening my technical skills through online courses with the objective to continue developing robust, secure solutions that optimize workflows and foster effective collaboration across various sectors.
 </p>
 
-<h2>Skills and Learning Journey</h2>
+<h2>🌱 Skills and Learning Journey</h2>
 
 <p>To transition into the tech industry, I have dedicated myself to learning programming and developing technical skills through self-learning. My focus has been on acquiring a strong foundation in computer science principles, programming languages, and honing my ability to identify problems, develop effective solutions, and implement technology to enhance productivity and workplace efficiency.</p>
 
@@ -47,7 +47,7 @@ Inspired by the positive impacts of these projects, I started deepening my techn
 
 <p>Through these experiences, I have developed a problem-solving mindset and the ability to create efficient, user-friendly solutions. My background in accounting, treasury management, and financial analysis has equipped me with a strong analytical skill set and experience with various software tools. I am naturaly curious about new technologies and continuously seek opportunities to expand my knowledge. My dedication and motivation in self-learning have driven me to proactively pursue educational resources and practical exercises to enhance my skill set.</p>
 <!--
-<h2> Projects and Achievements</h2>
+<h2>🏅 Projects and Achievements</h2>
 
 <p>In my role as Treasury Management Assistant and Junior Controller, I developed a system to streamline data entry and management, reducing redundancy in work-steps while allowing seamless access. This significantly reduced errors and improved overall efficiency.</p>
 
@@ -58,7 +58,7 @@ Inspired by the positive impacts of these projects, I started deepening my techn
 <p>To improve collaboration with an external accounting team, I implemented a centralized file-sharing solution that provided easy access and a clear overview of shared files, eliminating data loss and duplicated efforts, fostering a more organized and efficient work environment.</p>
 -->
 
-<h2>Programming Projects</h2>
+<h2>💡 Programming Projects</h2>
 
 <p>Within the framework of online courses and to solidify and practice the knowledge gained, I completed several exercises and projects that involved programing in Python, C, SQL, HTML, CSS, and JavaScript, such as:</p>
 
@@ -69,7 +69,7 @@ Inspired by the positive impacts of these projects, I started deepening my techn
   <li>Basic website using HTML, CSS, and JavaScript</li>
 </ul>
 
-<h2>Goals and Aspirations</h2>
+<h2>&#127919; Goals and Aspirations</h2>
 
 <p>As I transition into the tech industry, my short-term goal is to secure an entry-level position that allows me to apply my programming and problem-solving skills in a professional setting. I am particularly interested in roles that allow me to leverage technology to enhance business processes, improve efficiendy, and drive innovation. 
 
@@ -89,6 +89,6 @@ Beyond professional achievements, I am passionate about ising technology for soc
 <p>I am committed to continuous learning and growth, and I aim to contribute to innovative projects that make a meaningful impact both within organizations and in the broader community.</p>
 
 
-<h2>Contact</h2>
+<h2>📫 Contact</h2>
 
 <p>Feel free to conect with me on <a href="https://www.linkedin.com/in/miriam-stoehr/">LinkedIn.</a></p>
