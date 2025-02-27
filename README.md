@@ -75,6 +75,7 @@ Inspired by the positive impacts of these projects, I started deepening my techn
 
 <ul>
   <li><a href="https://github.com/Miriam-Stoehr/challenge-sentiment-analysis">Collection and sentiment analysis of Reddit posts</a></li>
+  <li><a href="https://github.com/Alkszo/immo_eliza_analysis">Data manipulation, feature engineering, data analysis and visualization of scraped real-estate data</a></li>
   <li><a href="https://github.com/Miriam-Stoehr/challenge-regression">Development and fine-tuning of a regression model to predict real-estate prices in Belgium</a></li>
   <li><a href="https://github.com/Miriam-Stoehr/challenge-app-deployment">Deployment of the real-estate price prediction model via Streamlit</a></li>
   <li><a href="https://github.com/Miriam-Stoehr/phishing-campaign-analysis">Dashboard creation via Streamlit to visualize the results of a phishing-awareness campaign based on synthetic data</a></li>
