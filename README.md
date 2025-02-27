@@ -41,8 +41,8 @@ Inspired by the positive impacts of these projects, I started deepening my techn
 
 <h3>Courses and Certifications:</h3>
 <ul>
-  <li>BeCode Data Science and AI Bootcamp</li>
-  <li>CS50's Introduction to Computer Science: covering basics of C, Python, SQL, HTML, CSS, and JavaScript</li>
+  <li><a href="https://becode.org/all-trainings/pedagogical-framework-ai-data-science/">BeCode Data Science and AI Bootcamp</a></li>
+  <li><a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">CS50's Introduction to Computer Science: covering basics of C, Python, SQL, HTML, CSS, and JavaScript</a></li>
   <li><a href=https://coursera.org/share/14ae2c92792ba746b85ec7174b986f1c>University of Michigan - Python for Everybody</a>, <a href=https://coursera.org/share/7e635a43ab3a1a4dc5614ca16054ec50>Python - Data Structures</a></li>
   <li>Various courses on Sololearn, DataCamp and kaggle to solidify knowledge and gaining practice</li>
 </ul>
