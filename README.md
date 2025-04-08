@@ -1,54 +1,111 @@
+# 📊 Miriam Stoehr – Data Analytics & Data Science Portfolio
+<br>
+📍 Brussels, Belgium
+
+🔗 [LinkedIn](https://www.linkedin.com/in/miriam-stoehr/)
+<br>
+
 ## About Me
 
-<p>I am a data analytics trainee and aspiring data scientist with a strong analytical background, transitioning into the tech industry. My expertise bridges political science, economics, and cultural studies, complemented by hands-on experience in accounting, treasury management, and controlling. This interdisciplinary foundation has shaped my ability to approach complex problems with a data-driven mindset.
+<p>I am a data analytics trainee and aspiring data scientist with a strong analytical background, currently transitioning into the tech industry. My foundation bridges political science, economics, and cultural studies, complemented by hands-on experience in finance, accounting, and controlling. This interdisciplinary perspective helps me approach complex questions with a data-driven and structured mindset.
 
-During my career in finance and business operations, I identified inefficiencies in data management and workflow processes, leading me to implement improved data integration and reporting solutions. By streamlining data entry and access through Power Query and centralized file management, I reduced redundancy and improved collaboration across departments. These experiences sparked my passion for leveraging data and technology to enhance business operations and decision-making.
+In my previous roles in finance and business operations, I identified inefficiencies in data handling and reporting workflows, leading initiatives that improved data integration, transparency, and collaboration. These experiences sparked my interest in using data and technology to drive smarter decision-making.
 
-Currently, I am refining my technical skills through the BeCode Data Science & AI Bootcamp, where I work on real-world projects involving data analytics, machine learning, and AI. My ultimate goal is to apply data science techniques to address societal challenges, such as misinformation, political education, and support for disadvantaged communities.</p>
+Currently, I am enhancing my technical skills through the BeCode Data Science & AI Bootcamp, where I work on applied projects involving machine learning, data analysis, and interactive dashboards. I am especially interested in roles where I can combine analytical thinking, technical tools, and domain knowledge to apply data science in ways that solve real problems, improve processes and contribute to positive, tangible change.</p>
+<br>
+## 🛠 Skills & Technologies
 
+* **Programming Languages:** Python, SQL, Basics in HTML, CSS, JavaScript, C
 
-## Skills & Technologies
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel, Streamlit, Geopy, Folium
 
-* **Programming Languages:** Python, SQL, Bascis in HTML, CSS, JavaScript, C
+* **Machine Learning & AI:** Scikit-learn, PyTorch, DBSCAN, NLP, Sentiment Analysis, Regression, Clustering
 
-* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Power BI, Excel, Streamlit
-
-* **Machine Learning & AI:** Scikit-learn, PyTorch, NLP, Sentiment Analysis, Regression, Clustering
-
-* **Web Development & APIs:** FastAPI, Web Scraping (BeautifulSoup, Scrapy), REST APIs
+* **Data Collection & APIs:** FastAPI, Web Scraping (BeautifulSoup, Selenium, Scrapy), REST APIs
 
 * **Cloud & Infrastructure:** Basic AWS knowledge
 
 * **Version Control & Collaboration:** Git, GitHub, SharePoint
+<br>
 
+## 💼 Projects
+&nbsp;
+### 🔐 AI-Generated Phishing Awareness Campaign  
+**Team Project – Proximus ADA (BeCode Bootcamp)**  
+- Used Gophish and its API to configure campaign parameters (recipients, templates, click/report tracking)  
+- Integrated OpenAI & Gemini APIs to generate dynamic phishing emails  
+- Developed a Streamlit dashboard to receive and visualize campaign data  
+- **Tools Used**: Python, Gophish API, OpenAI API, Gemini API, Streamlit  
+🔗 [Campaign Repo](https://github.com/kvnpotter/phishing-analysis) | [Dashboard Repo](https://github.com/Miriam-Stoehr/phishing-campaign-analysis)
 
-## Data Science & AI Projects
-* **[Reddit Sentiment Analysis](https://github.com/Miriam-Stoehr/challenge-sentiment-analysis):** Collected and analyzed sentiment trends from Reddit posts using NLP techniques.
+<br>
 
-* **[Real Estate Price Prediction](https://github.com/Miriam-Stoehr/challenge-app-deployment):** Scraped, analyzed, and engineered features for Belgian real estate data, then built and deployed a regression model using Streamlit.
+### 🏠 Real Estate Price Prediction – End-to-End Pipeline  
+**Team & Solo Project – BeCode Bootcamp**
 
-* **[Phishing Awareness Dashboard](https://github.com/Miriam-Stoehr/phishing-campaign-analysis):** Developed a Power BI dashboard to visualize phishing awareness campaign results based on synthetic data.
+#### 1. Data Collection (Team)  
+- Scraped Belgian property listings using dynamic/static scraping; structured the dataset for analysis  
+- **Tools Used**: Python, Selenium, BeautifulSoup, Pandas  
+🔗 [Repo](https://github.com/olhasl/challenge-collecting-data)
 
-* **[Wikipedia Web Scraping](https://github.com/Miriam-Stoehr/wikipedia-scraper):** Extracted and analyzed text data from Wikipedia articles for various research applications.
+#### 2. Data Cleaning & EDA (Team)  
+- Cleaned and analyzed data, visualizing trends in location, pricing, and features  
+- **Tools Used**: Python, Pandas, Matplotlib, Seaborn  
+🔗 [Repo](https://github.com/Alkszo/immo_eliza_analysis)
 
+#### 3. Model Development (Solo)  
+- Engineered geospatial and categorical features; trained & validated KNN regression model  
+- **Tools Used**: Python, Scikit-learn, Geopy, DBSCAN, OrdinalEncoder, StandardScaler  
+🔗 [Repo](https://github.com/Miriam-Stoehr/challenge-regression)
 
-## Learning & Certifications
+#### 4. Model Deployment (Solo)  
+- Built a Streamlit app with map integration for user-driven property price predictions  
+- **Tools Used**: Python, Streamlit, Folium  
+🔗 [Streamlit App](https://immoeliza-property-price-prediction.streamlit.app/) | [Repo](https://github.com/Miriam-Stoehr/challenge-app-deployment)
 
-* **[BeCode Data Science & AI Bootcamp](https://becode.org/all-trainings/pedagogical-framework-ai-data-science)** – Comprehensive training in data analysis, machine learning, and AI.
+<br>
 
-* **[CS50’s Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)** – Covers fundamentals in C, Python, SQL, HTML, CSS, and JavaScript.
+### 📈 Reddit Sentiment Analysis  
+**Solo Project – NLP Focus**  
+- Collected Reddit posts via API and applied sentiment scoring to identify user attitude trends  
+- Visualized sentiment distribution across subreddits and over time  
+- **Tools Used**: Python, NLP, Pandas, Matplotlib  
+🔗 [Repo](https://github.com/Miriam-Stoehr/challenge-sentiment-analysis)
 
-* **[Python for Everybody (University of Michigan)](https://coursera.org/share/14ae2c92792ba746b85ec7174b986f1c)** – Focused on Python programming and data structures.
+<br>
 
-* **Various Courses (Sololearn, DataCamp, Kaggle)** – Continuous self-learning in data science, machine learning, and cloud computing.
+### 💞 Relationship Clustering Analysis  
+**Solo Project – BeCode Bootcamp**  
+- Analyzed the HCMST dataset to uncover demographic and behavioral patterns in relationship formation  
+- Used clustering to identify five distinct relationship profiles based on age, income, meeting context, and duration  
+- **Tools Used**: Python, Pandas, Scikit-learn, Seaborn  
+🔗 [Repo](https://github.com/Miriam-Stoehr/hcmst-clustering)
 
+<br>
 
-## Goals & Aspirations
+### 📚 Wikipedia Web Scraper  
+**Exploratory Research Tool**  
+- Scraped and processed Wikipedia articles to support research-driven text analysis  
+- **Tools Used**: Python, BeautifulSoup, Pandas  
+🔗 [Repo](https://github.com/Miriam-Stoehr/wikipedia-scraper)
+<br>
 
-<p>My short-term goal is to secure a role in data analytics, AI, or ML, where I can apply my skills in a real-world environment. I am particularly interested in leveraging data science to address societal challenges, support policy-making, and improve business decision-making through advanced analytics and machine learning.
+## 🎓 Learning & Certifications
 
-I am eager to contribute to projects that drive innovation, optimize workflows, and make a tangible impact in both business and social domains.</p>
+* **[BeCode Data Science & AI Bootcamp](https://becode.org/all-trainings/pedagogical-framework-ai-data-science)** – Full-time, project based training in data analysis, data science, machine learning, and AI.
 
+* **[CS50’s Introduction to Computer Science (Harvard/edX)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)** – Core CS & coding foundations (C, Python, SQL, HTML, CSS, and JS).
+
+* **[Python for Everybody (University of Michigan/Coursera)](https://coursera.org/share/14ae2c92792ba746b85ec7174b986f1c)** – Python and data structures.
+
+* **Ongoing learning** – via DataCamp, Kaggle, a.o.
+<br>
+---
+
+## 🚀 What I’m Looking For
+
+I’m seeking opportunities in data analytics, machine learning, or research analysis—particularly roles that let me apply data to solve meaningful real-world challenges such as fraud prevention, process optimization, or policy support.
+<br>
 
 ### 📫 Let's Connect!
 
