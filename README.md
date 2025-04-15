@@ -31,7 +31,7 @@ Currently, I am enhancing my technical skills through the BeCode Data Science & 
 ## 💼 Projects
 &nbsp;
 ### 🔐 AI-Generated Phishing Awareness Campaign  
-**Team Project – BeCode Bootcamp**  
+**Team Project – BeCode Bootcamp in cooperation with a leading Belgian initiative focused on AI and cybersecurity advancements**  
 - Used Gophish and its API to configure campaign parameters (recipients, templates, click/report tracking)  
 - Integrated OpenAI & Gemini APIs to generate dynamic phishing emails  
 - Developed a Streamlit dashboard to receive and visualize campaign data  
@@ -110,3 +110,6 @@ I’m seeking opportunities in data analytics, machine learning, or research ana
 ### 📫 Let's Connect!
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/miriam-stoehr/) or GitHub for collaboration opportunities or discussions on data science and AI.
+
+
+Note: Some of these projects were developed during use case collaborations at BeCode. While inspired by real-world challenges, no proprietary or confidential information from any external partner has been used.
