@@ -31,7 +31,7 @@ Currently, I am enhancing my technical skills through the BeCode Data Science & 
 ## 💼 Projects
 &nbsp;
 ### 🔐 AI-Generated Phishing Awareness Campaign  
-**Team Project – Proximus ADA (BeCode Bootcamp)**  
+**Team Project – BeCode Bootcamp**  
 - Used Gophish and its API to configure campaign parameters (recipients, templates, click/report tracking)  
 - Integrated OpenAI & Gemini APIs to generate dynamic phishing emails  
 - Developed a Streamlit dashboard to receive and visualize campaign data  
